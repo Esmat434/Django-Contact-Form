@@ -19,26 +19,26 @@ A simple contact form web application built using Django. Users can submit their
 
 ## Project Structure
 ContactForm/
-│
-├── contact/             # App for contact form
-│   ├── migrations/
-│   ├── templates/
-│   │   └── contact.html
-│   ├── admin.py
-│   ├── models.py
-│   ├── views.py
-│   └── forms.py
-│   └── signals.py
-│   └── email_config.py
-│
-├── core/
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── db.sqlite3
-├── manage.py
-└── requirements.txt
+- │
+- ├── contact/             # App for contact form
+- │   ├── migrations/
+- │   ├── templates/
+- │   │   └── contact.html
+- │   ├── admin.py
+- │   ├── models.py
+- │   ├── views.py
+- │   └── forms.py
+- │   └── signals.py
+- │   └── email_config.py
+- │
+- ├── core/
+- │   ├── settings.py
+- │   ├── urls.py
+- │   └── wsgi.py
+- │
+- ├── db.sqlite3
+- ├── manage.py
+- └── requirements.txt
 
 
 ## Getting Started
